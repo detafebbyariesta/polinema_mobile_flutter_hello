@@ -1,6 +1,8 @@
 # tugas_flutter1
+output
 
-A new Flutter project.
+![ss tugas](https://user-images.githubusercontent.com/70737655/107778577-d3af9480-6d76-11eb-82f4-0ea3c795bb09.jpg)
+
 
 ## Getting Started
 
